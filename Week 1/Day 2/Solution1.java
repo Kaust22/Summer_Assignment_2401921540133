@@ -11,7 +11,7 @@ public class Solution1 {
         return maxSum;
     }
 
-    public static void main(String[] args) {
+    public static   void main(String[] args) {
         Solution1 sol = new Solution1();
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the size of the array: ");
